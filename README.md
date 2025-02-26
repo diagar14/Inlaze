@@ -46,3 +46,7 @@ utilizar el comando python automatization2.py para ejecutar el script de casos d
     Validar que el formulario de login no se envíe si los campos no están completos.
     Verificar que al ingresar se muestre el nombre del usuario.
     Verificar que el sistema permita cerrar la sesión correctamente.
+
+## Documentacion de pruebas automatizadas
+
+Se deb ingresar al siguiente enlace: [https://ember-spike-87e.notion.site/1a636910d0778096a19fd76c9bff7621?v=1a636910d07781c8bad7000c2ec7c89d]
